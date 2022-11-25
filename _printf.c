@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _printf - printf function
  * @format: format string containing the characters and the specifiers
